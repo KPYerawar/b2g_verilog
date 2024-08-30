@@ -1,0 +1,101 @@
+$date
+	Fri Aug 30 20:48:39 2024
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1s
+$end
+$scope module the_testbench $end
+$var wire 4 ! gray [3:0] $end
+$var reg 4 " binary [3:0] $end
+$scope module uut $end
+$var wire 4 # binary [3:0] $end
+$var wire 4 $ gray [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b0 $
+b0 #
+b0 "
+b0 !
+$end
+#100
+b1 !
+b1 $
+b1 "
+b1 #
+#200
+b11 !
+b11 $
+b10 "
+b10 #
+#300
+b10 !
+b10 $
+b11 "
+b11 #
+#400
+b110 !
+b110 $
+b100 "
+b100 #
+#500
+b111 !
+b111 $
+b101 "
+b101 #
+#600
+b101 !
+b101 $
+b110 "
+b110 #
+#700
+b100 !
+b100 $
+b111 "
+b111 #
+#800
+b1100 !
+b1100 $
+b1000 "
+b1000 #
+#900
+b1101 !
+b1101 $
+b1001 "
+b1001 #
+#1000
+b1111 !
+b1111 $
+b1010 "
+b1010 #
+#1100
+b1110 !
+b1110 $
+b1011 "
+b1011 #
+#1200
+b1010 !
+b1010 $
+b1100 "
+b1100 #
+#1300
+b1011 !
+b1011 $
+b1101 "
+b1101 #
+#1400
+b1001 !
+b1001 $
+b1110 "
+b1110 #
+#1500
+b1000 !
+b1000 $
+b1111 "
+b1111 #
+#1600

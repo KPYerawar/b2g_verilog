@@ -1,0 +1,37 @@
+[*]
+[*] GTKWave Analyzer v3.3.108 (w)1999-2020 BSI
+[*] Fri Aug 30 15:21:18 2024
+[*]
+[dumpfile] "C:\Users\krush\OneDrive\Desktop\binary_ti_gray\dump.vcd"
+[dumpfile_mtime] "Fri Aug 30 15:18:39 2024"
+[dumpfile_size] 977
+[savefile] "C:\Users\krush\OneDrive\Desktop\binary_ti_gray\output_wave\wave.gtkw"
+[timestart] 0
+[size] 1366 681
+[pos] -131 -53
+*-8.100000 353 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] the_testbench.
+[sst_width] 254
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 184
+@800022
+the_testbench.binary[3:0]
+@28
+(0)the_testbench.binary[3:0]
+(1)the_testbench.binary[3:0]
+(2)the_testbench.binary[3:0]
+(3)the_testbench.binary[3:0]
+@1001200
+-group_end
+@800023
+the_testbench.gray[3:0]
+@29
+(0)the_testbench.gray[3:0]
+(1)the_testbench.gray[3:0]
+(2)the_testbench.gray[3:0]
+(3)the_testbench.gray[3:0]
+@1001201
+-group_end
+[pattern_trace] 1
+[pattern_trace] 0
